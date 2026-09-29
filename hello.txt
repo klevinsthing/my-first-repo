@@ -1,7 +1,1 @@
-git Add hello.txt
-
-git commit -m "Update hello.txt with another line"
-
-git push
-
-git log --oneline
+hello.txt
